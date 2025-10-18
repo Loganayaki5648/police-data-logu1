@@ -1,10 +1,10 @@
-import mysql.connector
-import pandas as pd
-import plotly.express as px
 import streamlit as st
+import pandas as pd
+import mysql.connector
+import plotly.express as px
 from sqlalchemy import create_engine
 import pymysql
-
+ 
 def get_connection():
     return mysql.connector.connect(
         host="localhost",
