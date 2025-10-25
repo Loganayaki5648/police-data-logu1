@@ -4,12 +4,12 @@ This project contains two main files:
 
 Files:
 - `project 1.ipynb`: Jupyter Notebook used for data analysis, cleaning, and exploration.
-- `app.py`: A simple Python web application (likely using Flask or Streamlit).
+- `app.py`: A simple Python web application.
 
 How to Run:
 
 For `project 1.ipynb`
-1. Open the notebook in Jupyter Notebook or Google Colab.
+1. Open the notebook in Jupyter Notebook .
 2. Run the cells one by one to see the analysis.
 
 For `app.py`
